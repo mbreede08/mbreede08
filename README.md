@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbreede08&label=Profile%20views&color=0e75b6&style=flat" alt="mbreede08" /> </p>
 
-- 🔭 I’m currently working on **[Bruno Loading](https://github.com/mbreede08/bruno_loading)**
+- 🔭 I’m currently working on [Bruno Loading](https://github.com/mbreede08/bruno_loading)
 
 - 🌱 I’m currently learning **Flutter (Dart), MySQL**
   
